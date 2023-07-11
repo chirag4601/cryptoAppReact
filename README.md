@@ -9,8 +9,13 @@ This website uses APIs of coin gecko to get exchanges and crypto coins informati
 This website is a personal project.
 
 To run this code, use the following commands:
+
 git clone https://github.com/chirag4601/cryptoAppReact.git
+
 cd cryptoAppReact
+
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
 npm i react-router-dom axios chart.js@3.9.1 react-chartjs-2@4.3.1 react-icons
+
 npm start
