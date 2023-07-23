@@ -14,8 +14,6 @@ git clone https://github.com/chirag4601/cryptoAppReact.git
 
 cd cryptoAppReact
 
-npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
-
-npm i react-router-dom@6.14.1 axios@1.4.0 chart.js@3.9.1 react-chartjs-2@4.3.1 react-icons@4.10.1
+npm i 
 
 npm start
